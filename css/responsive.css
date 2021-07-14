@@ -1,0 +1,122 @@
+
+
+
+@media only screen and (max-width: 767px) {
+    .top-bar{
+        height: 130px;
+    }
+    .costume-container{
+        padding: 0px 10px;
+    }
+    .sidebar-fixed{
+        display: none;
+    }
+    .left-icon img, .footer-logo img{
+        width: 100px;
+    }
+    /* .main-logo{
+        display: none;
+    } */
+    /* .responsive-logo{
+        display: block;
+    } */
+    .responsive-logo img{
+        width: 30px;
+    }
+    .hubmerger-icon{
+        position: absolute;
+        top: 14px;
+        right: 30px;
+    }
+    .hubmerger-icon{
+        padding: 5px 9px;
+    }
+    .top-bar .d-flex{
+        display: grid !important;
+    }
+    .left-icon {
+        margin-bottom: 30px;
+    }
+    a.btn.btn-primary.coin-btn{
+        padding: 7px 30px;
+    }
+    .right-icon a {
+        margin-left: 10px;
+    }
+    .coin-main-area {
+        padding: 20px 0px 20px 5px;
+    }
+    .banner-area img{
+        margin-bottom: 15px;
+    }
+
+
+
+    footer.footer{
+        padding: 30px 15px;
+        text-align: center;
+    }
+    .footer-p{
+        width: 100%;
+        font-size: 11px !important;
+        line-height: 18px !important;
+        margin-top: 10px;
+    }
+    .footer-menu {
+        margin: 25px 0px;
+    }
+    .footer-menu ul li{
+        margin-right: 0px;
+        line-height: 2;
+        font-size: 10px;
+    }
+    .footer-bottom{
+        margin-top: 30px;
+    }
+    .footer-bottom img {
+        margin-right: 20px;}
+
+    .top{
+        bottom: 0;
+    }
+    .footer h4 {
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+    .footer-menu {
+        margin: 10px 0px;
+    }
+
+    .table-dark td, .table-dark th, .table-dark thead th{
+        padding: 10px 10px;
+        font-size: 10px;
+        font-weight: 400;
+    }
+    .btn.btn-primary.vote-btn{
+        background: transparent;
+        padding: 0;
+        font-size: 10px;  
+    }
+    th img {
+        width: 14px;
+    }
+    .nav-tabs .nav-link, .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active, .nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover{
+        padding: 5px 6px;
+        font-size: 12px;
+    }
+    .nav-tabs{
+        padding: 7px;
+        margin: 10px 0px;
+        width: 200px;
+    }
+    #dropdownMenuButton p{
+        display: none;
+    }
+    .fa-sort-down{
+        display: none;
+    }
+
+
+
+
+}
